@@ -88,6 +88,8 @@ Note that the parameter is name of the table defining what is shown on walls.
 
 * Virtual Obeya Realisation Code
 
+See the RAW version of ~readme.org~ to see the code.
+
 #+NAME: enter_to_obeya
 #+BEGIN_SRC emacs-lisp :var wall_config='() :exports none :results silent
 
